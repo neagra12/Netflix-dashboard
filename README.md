@@ -23,6 +23,3 @@ This project explores the Netflix dataset using **Tableau** to uncover insights 
 
 ## 📎 File
 - `Netflixdashboard.twbx`: Tableau packaged workbook containing all 4 dashboards.
-
-## 📥 Download
-> You can [download the dashboard here](Netflixdashboard.twbx) and open it with Tableau Desktop or Tableau Public.
